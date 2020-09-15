@@ -5,4 +5,4 @@
 
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/28amit/Images/blob/master/bmi-calc-demo.gif)
